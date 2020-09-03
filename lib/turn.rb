@@ -7,7 +7,7 @@
     puts " #{board[6]} | #{board[7]} | #{board[8]} "
 
   end
-#convert user's place on board to index integer using input_to_index
+
 def input_to_index(input)
   index = input.to_i
   input -= 1

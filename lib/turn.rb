@@ -13,7 +13,6 @@ def input_to_index(input)
   input -= 1
   return index
 end
-end
 
 def valid_move?(board,index)
   def position_taken?(board, index)

@@ -57,4 +57,3 @@ end
       turn(board)
     end
   end
-

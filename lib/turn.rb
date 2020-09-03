@@ -8,9 +8,9 @@
 
   end
 
-def input_to_index(input)
-  index = input.to_i
-  input - 1
+def input_to_index(user_input)
+  index = user_input.to_i
+  index -= 1
   return index
 end
 

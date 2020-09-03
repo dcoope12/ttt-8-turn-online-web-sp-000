@@ -42,4 +42,4 @@ end
 #Asks user for a number, check if it is valid, and if it's not, recursively continues to ask for a number
 def turn
 
-end 
+end
